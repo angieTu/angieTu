@@ -1,10 +1,7 @@
 ![10](https://user-images.githubusercontent.com/57192916/122461193-66607a00-cf89-11eb-92f2-15275b746cb8.jpg)
 
 # Hola!👋
-Mi nombre es Angie. Soy Lic. en Relaciones Públicas, pero en el último año incursioné en el mundo IT y estudié desarrollo frontend. 
-Actualmente me estoy formando para ser desarrolladora fullstack, y haciendo cursos complementarios.  
-
-💻 Trabajo haciendo closed caption, y algunos proyectos freelance de desarrollo web.  
+Mi nombre es Angie y soy Frontend Developer 💻 
 
 📚 Lenguajes y herramientas que aprendí:
 
