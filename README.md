@@ -3,28 +3,23 @@
 # Hola!👋
 Mi nombre es Angie y soy Frontend Developer 💻 
 
-📚 Lenguajes y herramientas que aprendí:
-
+📚:
 * HTML
 * CSS
 * SASS
 * JavaScript
-* React
+* React Js
+* React native
 * GIT
-
-
-📚 Lenguajes y herramientas que estoy aprendiendo:
-
 * Node.js
 * Express
 * MongoDB
 * Postman
-
+* Firebase
+* Angular
 
 🌈 Además, realicé una API de Friends cuya documentación pueden encontrar acá: 
 *  https://documenter.getpostman.com/view/12618304/TW6wJoZQ
-
-
 
 👉 Podés contactarme por estos medios:
 
